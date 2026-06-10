@@ -151,6 +151,6 @@ If you'd like to contribute, please fork the repository and use a feature branch
 <br />
 
 <div align="right">
-  <strong>Built by:</strong> Himesh M. Solanki <br />
-  <strong>InternID:</strong> CITS3961
+  <i><strong>Built by:</strong> Himesh M. Solanki </i> <br />
+  <i><strong>InternID:</strong> CITS3961</i>
 </div>
